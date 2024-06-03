@@ -1,3 +1,5 @@
-# Repositorio base
+# INTEGRANTES
 
-Este repositorio tiene las configuraciones y librerías necesarias para trabajar concurrencia
+Juan david camacho 2266292
+wilson andres martinez 2266319
+juan gabriel paredes 2266183
